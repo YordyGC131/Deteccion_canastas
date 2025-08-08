@@ -1,2 +1,1 @@
-Fecha:2025-08-08 10:47:22;Canasta:1;Bolsas:22;Confianza:0.45
-Fecha:2025-08-08 10:47:30;Canasta:2;Bolsas:22;Confianza:0.65
+
