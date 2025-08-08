@@ -1,1 +1,4 @@
-https://colab.research.google.com/drive/1qkrpUB91VPdUJOX5-nkfPHg_fbsoIe3P?usp=sharing   
+https://colab.research.google.com/drive/1qkrpUB91VPdUJOX5-nkfPHg_fbsoIe3P?usp=sharing   (LINK DE GOOGLE COLAB PARA ENTRENAR EL MODELO)
+
+https://www.youtube.com/watch?v=jj1xmJYquXg&ab_channel=OMES    (LINK VIDEO YOUTUBE EXPLICADO TODO DESDE 0)
+
