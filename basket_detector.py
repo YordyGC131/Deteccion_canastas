@@ -1,4 +1,5 @@
 # basket_detector.py
+#Detecta la región de la canasta vía HSV y contornos.
 import cv2
 import numpy as np
 from config import Config

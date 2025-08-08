@@ -1,4 +1,5 @@
 # analysis_worker.py
+#Hilo de fondo que procesa las imágenes crudas.
 import threading
 import time
 import random

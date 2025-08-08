@@ -1,4 +1,5 @@
 # main.py
+#Orquesta todos los módulos e inicia los workers.
 import threading
 from logger import EventLogger
 from snapshot_manager import SnapshotManager

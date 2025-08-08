@@ -1,4 +1,5 @@
 # snapshot_manager.py
+#Se encarga de guardar snapshots y mapear IDs.
 import os
 import cv2
 from datetime import datetime

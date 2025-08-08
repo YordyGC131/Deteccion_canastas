@@ -1,4 +1,5 @@
 # logger.py
+#Responsable de registrar eventos en disco. Inyección de dependencia facilita testing.
 from datetime import datetime
 from config import Config
 

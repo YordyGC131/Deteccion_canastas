@@ -1,4 +1,5 @@
 # bag_analyzer.py
+#Encapsula la inferencia YOLO.
 import cv2
 import numpy as np
 from ultralytics import YOLO

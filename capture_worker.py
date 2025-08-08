@@ -1,4 +1,5 @@
 # capture_worker.py
+#Bucle principal de captura y visualización.
 import cv2
 from config import Config
 from basket_detector import BasketDetector

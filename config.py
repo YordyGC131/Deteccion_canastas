@@ -1,4 +1,5 @@
 # config.py
+#Centraliza toda la configuración como constantes y tipos.
 from typing import Tuple
 
 class Config:

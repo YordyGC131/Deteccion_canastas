@@ -1,4 +1,5 @@
 # utils.py
+#Funciones de dibujo reutilizables.
 import cv2
 import os
 from typing import Tuple
